@@ -1,0 +1,13 @@
+1. npm create react app client
+
+npm unistall create react app-g
+npm unistall create react app-g
+
+2. cd client
+
+3. npm i react router- dom
+
+5. browerRouter .index.js
+
+6.
+
